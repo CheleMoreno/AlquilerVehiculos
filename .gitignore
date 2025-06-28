@@ -1,0 +1,13 @@
+# Archivos compilados
+*.class
+
+# Configuración del IDE IntelliJ
+.idea/
+*.iml
+
+# Carpeta de compilación
+/out/
+
+# Archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
