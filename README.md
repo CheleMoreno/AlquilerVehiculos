@@ -61,7 +61,7 @@ Esta aplicación Java es un sistema completo de alquiler de vehículos que permi
 2. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tuusuario/sistema-alquiler-vehiculos.git
+git clone https://github.com/CheleMoreno/AlquilerVehiculos.git
 ```
 
 3. Navega al directorio del proyecto  
